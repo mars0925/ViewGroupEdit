@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/btn_normal.xml" value="0.2255" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/btn_pressed.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/btn_selector.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/btn_selector_retake.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/green_trading_button.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/horn_fragment_right.xml" value="0.255" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/horn_fragment_site.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/horn_fragment_site_mid.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2255" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/left_radius.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/no_radius.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/drawable/right_radius.xml" value="0.191" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MyAndroidProject/ViewGroupEdit/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
